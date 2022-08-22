@@ -44,15 +44,13 @@ function generatePassword() {
     passwordCombo += upperLetters;
   }
 
-
-
   for (var i = 0; i < pwLength; i++) {
     var combination = Math.floor(Math.random() * passwordCombo.length);
-    console.log(combination);
     Password += passwordCombo[combination];
+    console.log(combination);
   }
 
-  return '';
+  return Password;
 
 
 
