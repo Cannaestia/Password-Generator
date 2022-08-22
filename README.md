@@ -7,12 +7,8 @@ This is a password generator to help the user in creating a secure password to u
 Please follow prompts as they appear to select what you want to include in your password.  
 
 ## Visuals
-![Password Generator](https://github.com/Cannaestia/Password-Generator/blob/main/Screen%20Shot%202022-08-22%20at%203.04.24%20AM.png?raw=true)
-![Password Generator](https://github.com/Cannaestia/Password-Generator/blob/main/Screen%20Shot%202022-08-22%20at%203.04.42%20AM.png?raw=true)
-![Password Generator](https://github.com/Cannaestia/Password-Generator/blob/main/Screen%20Shot%202022-08-22%20at%203.04.58%20AM.png?raw=true)
-![Password Generator](https://github.com/Cannaestia/Password-Generator/blob/main/Screen%20Shot%202022-08-22%20at%203.05.10%20AM.png?raw=true)
-![Password Generator](https://github.com/Cannaestia/Password-Generator/blob/main/Screen%20Shot%202022-08-22%20at%203.05.17%20AM.png?raw=true)
-![Password Generator](https://github.com/Cannaestia/Password-Generator/blob/main/Screen%20Shot%202022-08-22%20at%203.05.28%20AM.png?raw=true)
+
+
 
 ## Roadmap
   N/A
