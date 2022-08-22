@@ -16,7 +16,7 @@ function generatePassword() {
   }
 
   var numeric = "0123456789";
-  var character = "@#$%^&*";
+  var character = "@#$%^&*<>?~_-+=";
   var lowerLetters = "abcdefghijklmnopqrstuvwxyz";
   var upperLetters = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 
